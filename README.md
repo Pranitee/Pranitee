@@ -1,6 +1,6 @@
 ## Hi I'm Pranitee👋
 
- -🔭 I’m currently exploring web development, app development, and innovative tech projects.
+ -🔭 I’m currently exploring web development, app development, and innovative tech projects.<br>
  -🌱 I’m currently learning advanced programming in Java and mobile application development.
  -👯 I’m looking to collaborate on exciting coding projects, open-source contributions, and new tech ideas.
  -💬 Ask me about coding, app development, or my passion for cricket and art!
