@@ -1,12 +1,12 @@
 ## Hi I'm Pranitee👋
 
- 🔭 I’m currently exploring web development, app development, and innovative tech projects.
- 🌱 I’m currently learning advanced programming in Java and mobile application development.
- 👯 I’m looking to collaborate on exciting coding projects, open-source contributions, and new tech ideas.
- 💬 Ask me about coding, app development, or my passion for cricket and art!
- 📫 How to reach me: Feel free to connect with me via email at **sonavanepranitee@gmail.com**
- 😄 Pronouns: she/her
- ⚡I can easily lose track of time when I’m coding or sketching. Debugging or adding the final touches to a drawing is my kind of therapy! 
+ -🔭 I’m currently exploring web development, app development, and innovative tech projects.
+ -🌱 I’m currently learning advanced programming in Java and mobile application development.
+ -👯 I’m looking to collaborate on exciting coding projects, open-source contributions, and new tech ideas.
+ -💬 Ask me about coding, app development, or my passion for cricket and art!
+ -📫 How to reach me: Feel free to connect with me via email at **sonavanepranitee@gmail.com**
+ -😄 Pronouns: she/her
+ -⚡I can easily lose track of time when I’m coding or sketching. Debugging or adding the final touches to a drawing is my kind of therapy! 
  
 <!--
 **Pranitee/Pranitee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
