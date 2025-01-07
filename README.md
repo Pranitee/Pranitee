@@ -6,7 +6,7 @@
  -💬 Ask me about coding, app development, or my passion for cricket and art!<br>
  -📫 How to reach me: Feel free to connect with me via email at **sonavanepranitee@gmail.com**<br>
  -😄 Pronouns: she/her<br>
- -⚡I can easily lose track of time when I’m coding or sketching. Debugging or adding the final touches to a drawing is my kind of therapy!<br>
+ -⚡Fun Fact: I can easily lose track of time when I’m coding or sketching. Debugging or adding the final touches to a drawing is my kind of therapy!<br>
  
 <!--
 **Pranitee/Pranitee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
